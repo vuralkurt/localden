@@ -1,0 +1,23 @@
+body{
+background-color: rgba(225, 236, 127, 0.466);
+}
+h1{
+    color: orange;
+}
+h2{
+    color:rgb(25,5,125)
+}
+main{
+    border-style: double;
+    border-width: 10px;
+    width: 800px;
+    }
+h3{
+    color: #d41414;
+}
+ul{
+    color: #560a8b;
+}
+p{
+    color: #5FC7ED;
+}    
